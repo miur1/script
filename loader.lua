@@ -1,4 +1,4 @@
-local repo = "https://raw.githubusercontent.com/miureals/test/refs/heads/main/"
+local repo = "https://raw.githubusercontent.com/miur1/script/refs/heads/main/"
 local PlaceId = game.PlaceId
 
 --special games 
